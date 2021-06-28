@@ -6,7 +6,7 @@ EBIRD_SPECIES_CODES = 'metadata/eBird_taxonomy_codes_2018.json'
 EBIRD_MDATA = 'metadata/eBird_grid_data_weekly.gz'
 USE_EBIRD_CHECKLIST = True
 EBIRD_THRESHOLD = 0.02
-DEPLOYMENT_LOCATION = (-1, -1)
+DEPLOYMENT_LOCATION = (51.7763, 1.3140)
 DEPLOYMENT_WEEK = -1
 GRID_STEP_SIZE = 0.25
 
